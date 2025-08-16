@@ -3,5 +3,5 @@ services:
     name: portfolio
     env: docker
     plan: free
-    dockerfilePath: ./Dockerfile
     branch: main
+    autoDeploy: true
