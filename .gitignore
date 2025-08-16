@@ -1,0 +1,37 @@
+# Backend - Java
+target/
+*.jar
+*.war
+*.ear
+*.class
+.project
+.classpath
+.settings/
+bin/
+
+# Frontend - React
+frontend/node_modules/
+frontend/build/
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+
+# IDE
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+/tmp/
+*.tmp
