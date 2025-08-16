@@ -16,7 +16,7 @@ const Portfolio = () => {
       degree: 'B.Tech in AI & ML',
       institution: 'Acropolis Institute of Technology and Research, Indore',
       period: '2023-2026',
-      grade: 'CGPA: 73.7%'
+    grade: 'CGPA: 7.4'
     },
     {
       degree: 'Diploma in Mechanical Engineering',
