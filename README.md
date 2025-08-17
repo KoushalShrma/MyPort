@@ -129,7 +129,6 @@ The website is fully optimized for mobile devices with:
 ## 📞 Contact
 
 - **Email**: kousharmaa@gmail.com
-- **Phone**: +91 810-913-3203
 - **GitHub**: [github.com/KoushalShrma](https://github.com/KoushalShrma)
 - **LinkedIn**: [linkedin.com/in/KoushalShrma](https://linkedin.com/in/KoushalShrma)
 
